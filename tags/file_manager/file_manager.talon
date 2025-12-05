@@ -1,4 +1,5 @@
 tag: user.file_manager
+tag: user.use_file_manager
 -
 tag(): user.address
 tag(): user.navigation

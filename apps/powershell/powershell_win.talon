@@ -5,6 +5,7 @@ app: windows_terminal
 and win.title: /PowerShell/
 os: windows
 and app.exe: powershell.exe
+tag: user.use_app_powershell
 -
 # makes the commands in terminal.talon available
 tag(): terminal

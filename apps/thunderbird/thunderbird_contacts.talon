@@ -1,4 +1,5 @@
 app: thunderbird_contacts
+tag: user.use_app_thunderbird
 -
 contact new: user.thunderbird_mod("n")
 contact edit: user.thunderbird_mod("i")

@@ -1,3 +1,5 @@
+tag: user.use_snippets
+-
 # If you do not want snippets inserted with an added stop at the end: Uncomment the following line and comment the line after it
 #snip {user.snippet}: user.insert_snippet_by_name(snippet)
 snip {user.snippet}: user.insert_snippet_by_name_with_stop_at_end(snippet)

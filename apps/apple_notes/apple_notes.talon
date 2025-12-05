@@ -1,5 +1,6 @@
 os: mac
 and app: notes
+tag: user.use_app_apple_notes
 -
 
 new note: key(cmd-n)

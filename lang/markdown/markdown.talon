@@ -1,4 +1,5 @@
 code.language: markdown
+tag: user.use_languages
 -
 (level | heading | header) one:
     edit.line_start()

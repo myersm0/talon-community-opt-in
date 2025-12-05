@@ -1,5 +1,6 @@
 tag: terminal
 and tag: user.git
+tag: user.use_app_git
 -
 git {user.git_command} [<user.git_arguments>]:
     args = git_arguments or ""

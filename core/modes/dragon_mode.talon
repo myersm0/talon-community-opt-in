@@ -1,3 +1,5 @@
+tag: user.use_dictation
+-
 #defines modes specific to Dragon.
 speech.engine: dragon
 mode: all

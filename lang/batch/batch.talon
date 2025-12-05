@@ -1,4 +1,5 @@
 code.language: batch
+tag: user.use_languages
 -
 tag(): user.code_comment_line
 

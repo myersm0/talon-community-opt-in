@@ -1,4 +1,5 @@
 app: windows_terminal
+tag: user.use_app_windows_terminal
 -
 # makes the commands in terminal.talon available
 tag(): terminal

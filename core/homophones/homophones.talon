@@ -1,3 +1,5 @@
+tag: user.use_homophones
+-
 phones <user.homophones_canonical>: user.homophones_show(homophones_canonical)
 phones that: user.homophones_show_auto()
 phones force <user.homophones_canonical>:

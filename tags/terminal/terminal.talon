@@ -1,4 +1,5 @@
 tag: terminal
+tag: user.use_terminal
 -
 # tags should be activated for each specific terminal in the respective talon file
 

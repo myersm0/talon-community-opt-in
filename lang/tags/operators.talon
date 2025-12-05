@@ -1,3 +1,5 @@
+tag: user.use_languages
+-
 # Note: the "help operators" command will currently display "op",  "is", and "(bit | bitwise)" regardless of what the commands are
 # so changing those commands will make the "help operators" command display the wrong prefixes
 op {user.code_operators_array}: user.code_operator(code_operators_array)

@@ -1,4 +1,5 @@
 code.language: lua
+tag: user.use_languages
 -
 
 tag(): user.code_imperative

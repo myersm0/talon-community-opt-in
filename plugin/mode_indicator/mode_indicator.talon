@@ -1,3 +1,5 @@
+tag: user.use_mode_indicator
+-
 settings():
     # Don't show mode indicator by default
     user.mode_indicator_show = false

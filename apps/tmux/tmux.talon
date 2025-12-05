@@ -1,4 +1,5 @@
 app: tmux
+tag: user.use_app_tmux
 -
 tag(): user.splits
 tag(): user.tabs

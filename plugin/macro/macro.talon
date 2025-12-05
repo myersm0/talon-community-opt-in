@@ -1,3 +1,5 @@
+tag: user.use_macros
+-
 macro record: user.macro_record()
 macro stop: user.macro_stop()
 macro play [{user.saved_macros}]: user.macro_play(saved_macros or "")

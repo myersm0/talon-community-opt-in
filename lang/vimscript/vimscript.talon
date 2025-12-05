@@ -1,4 +1,5 @@
 code.language: vimscript
+tag: user.use_languages
 -
 tag(): user.code_imperative
 tag(): user.code_operators_assignment

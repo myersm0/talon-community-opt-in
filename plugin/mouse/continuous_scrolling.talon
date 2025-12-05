@@ -1,4 +1,5 @@
 tag: user.continuous_scrolling
+tag: user.use_mouse
 -
 <number_small>: user.mouse_scroll_set_speed(number_small)
 

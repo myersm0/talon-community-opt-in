@@ -1,4 +1,5 @@
 code.language: rust
+tag: user.use_languages
 -
 tag(): user.code_comment_line
 tag(): user.code_comment_block_c_like

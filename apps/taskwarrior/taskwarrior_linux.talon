@@ -1,6 +1,7 @@
 os: linux
 tag: terminal
 and tag: user.taskwarrior
+tag: user.use_app_taskwarrior
 -
 # general
 task version: "task --version\n"

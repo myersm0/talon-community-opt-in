@@ -1,3 +1,5 @@
+tag: user.use_screenshots
+-
 not tag: user.screenshot_disabled
 -
 

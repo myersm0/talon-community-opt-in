@@ -1,4 +1,5 @@
 app: slack
+tag: user.use_app_slack
 -
 tag(): user.messaging
 tag(): user.emoji

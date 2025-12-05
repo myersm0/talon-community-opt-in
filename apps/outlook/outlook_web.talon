@@ -4,6 +4,7 @@
 os: linux
 tag: browser
 win.title: /Outlook/
+tag: user.use_app_outlook
 -
 
 # write email

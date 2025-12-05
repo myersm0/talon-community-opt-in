@@ -1,5 +1,6 @@
 os: windows
 and app: Outlook
+tag: user.use_app_outlook
 -
 archive: key(alt h o 1)
 new e-mail: key(ctrl-n)

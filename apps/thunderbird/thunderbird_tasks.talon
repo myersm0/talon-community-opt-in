@@ -1,4 +1,5 @@
 app: thunderbird_tasks
+tag: user.use_app_thunderbird
 -
 # event/task
 event new: user.thunderbird_mod("i")

@@ -1,4 +1,5 @@
 mode: dictation
+tag: user.use_dictation
 -
 ^press <user.modifiers>$: key(modifiers)
 ^press <user.keys>$: key(keys)

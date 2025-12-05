@@ -1,4 +1,5 @@
 tag: user.splits
+tag: user.use_splits
 -
 split right: user.split_window_right()
 split left: user.split_window_left()

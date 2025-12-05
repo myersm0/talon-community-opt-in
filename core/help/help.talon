@@ -1,3 +1,5 @@
+tag: user.use_help
+-
 help alphabet: user.help_list("user.letter")
 help symbols: user.help_list("user.symbol_key")
 help numbers: user.help_list("user.number_key")

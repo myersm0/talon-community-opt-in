@@ -1,6 +1,7 @@
 tag: browser
 browser.host: twitter.com
 #win.title: /Twitter/
+tag: user.use_app_twitter
 -
 
 # navigation

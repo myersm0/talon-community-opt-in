@@ -1,5 +1,6 @@
 #custom eclipse commands go here
 app: eclipse
+tag: user.use_app_eclipse
 -
 tag(): user.find_and_replace
 tag(): user.line_commands

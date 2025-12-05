@@ -1,4 +1,5 @@
 app: discord
+tag: user.use_app_discord
 -
 tag(): user.messaging
 tag(): user.emoji

@@ -1,5 +1,6 @@
 user.running: arc
 os: mac
+tag: user.use_app_arc
 -
 # This assumes that you have not disabled Little Arc
 little arc [<user.text>]:

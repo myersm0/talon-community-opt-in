@@ -1,3 +1,5 @@
+tag: user.use_symbols
+-
 new line: "\n"
 double dash: "--"
 triple quote: "'''"

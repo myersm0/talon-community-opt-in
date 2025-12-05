@@ -1,5 +1,6 @@
 os: mac
 app: RStudio
+tag: user.use_app_rstudio
 -
 
 run that: key("cmd-enter")

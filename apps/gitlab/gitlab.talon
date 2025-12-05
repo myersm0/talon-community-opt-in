@@ -3,6 +3,7 @@
 tag: browser
 browser.host: /gitlab\.com/
 #win.title: /GitLab/
+tag: user.use_app_gitlab
 -
 
 # global shortcuts

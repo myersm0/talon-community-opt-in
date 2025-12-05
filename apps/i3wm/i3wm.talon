@@ -1,6 +1,7 @@
 # NOTE: If you want to use i3wm you must enable the tag settings.talon. i.e.: `tag(): user.i3wm`
 os: linux
 tag: user.i3wm
+tag: user.use_app_i3wm
 -
 port <number_small>: user.i3msg("workspace number {number_small}")
 (port flip | flipper): user.i3msg("workspace back_and_forth")

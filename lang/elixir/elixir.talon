@@ -1,4 +1,5 @@
 code.language: elixir
+tag: user.use_languages
 -
 tag(): user.code_functional
 tag(): user.code_concurrent

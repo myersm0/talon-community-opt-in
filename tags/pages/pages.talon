@@ -1,4 +1,5 @@
 tag: user.pages
+tag: user.use_pages
 -
 tag(): user.navigation
 
