@@ -1,4 +1,8 @@
-# community
+# talon-community-opt-in
+
+## What is this?
+How is this different from [talonhub/community](https://github.com/talonhub/community)? There's one difference: all functionality is OFF by default (except for sleep and wake). This is done by means of a tag added to the top of each .talon file. To explicitly turn on the functionality that you want, there's a file [settings/opt-in.talon](settings/opt-in.talon) with tags that you have to uncomment.
+-----
 
 Voice command set for [Talon](https://talonvoice.com/), community-supported.
 
