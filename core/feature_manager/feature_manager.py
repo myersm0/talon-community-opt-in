@@ -113,7 +113,7 @@ features = [
 	"talon_helpers",
 	"tabs",
 	"terminal",
-	"text_input",
+	"text",
 	"text_navigation",
 	"vocabulary",
 	"websites",
