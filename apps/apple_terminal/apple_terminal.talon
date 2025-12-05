@@ -1,4 +1,5 @@
 app: apple_terminal
+tag: user.use_app_apple_terminal
 -
 # makes the commands in terminal.talon available
 tag(): terminal

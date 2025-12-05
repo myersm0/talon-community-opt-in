@@ -1,6 +1,7 @@
 app: microsoft_teams
 os: windows
 os: linux
+tag: user.use_app_teams
 -
 
 # Shortcut reference

@@ -1,4 +1,5 @@
 tag: user.messaging
+tag: user.use_messaging
 -
 # Navigation
 previous (workspace | server): user.messaging_workspace_previous()

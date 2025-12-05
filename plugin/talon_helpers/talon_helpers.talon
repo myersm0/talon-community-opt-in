@@ -1,3 +1,5 @@
+tag: user.use_talon_helpers
+-
 talon check updates: menu.check_for_updates()
 # the debug window is only available in the talon beta
 talon open debug: menu.open_debug_window()

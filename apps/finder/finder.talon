@@ -1,5 +1,6 @@
 os: mac
 app: finder
+tag: user.use_app_finder
 -
 tag(): user.address
 tag(): user.file_manager

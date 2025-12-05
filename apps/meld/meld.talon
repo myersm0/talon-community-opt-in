@@ -1,4 +1,5 @@
 app: meld
+tag: user.use_app_meld
 -
 tag(): user.tabs
 

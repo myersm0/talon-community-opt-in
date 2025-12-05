@@ -1,3 +1,5 @@
+tag: user.use_alphabet
+-
 <user.letter>: key(letter)
 (ship | uppercase) <user.letters> [(lowercase | sunk)]:
     user.insert_formatted(letters, "ALL_CAPS")

@@ -1,5 +1,6 @@
 app: windows_explorer
 app: windows_file_browser
+tag: user.use_app_windows_explorer
 -
 tag(): user.address
 tag(): user.file_manager

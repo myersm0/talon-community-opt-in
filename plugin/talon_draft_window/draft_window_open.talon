@@ -1,5 +1,6 @@
 # These are available when the draft window is open, but not necessarily focussed
 tag: user.draft_window_showing
+tag: user.use_draft_window
 -
 draft hide: user.draft_hide()
 

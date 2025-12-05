@@ -1,5 +1,6 @@
 mode: command
 mode: dictation
+tag: user.use_dictation
 -
 ^dictation mode$:
     mode.disable("sleep")

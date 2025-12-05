@@ -1,4 +1,5 @@
 tag: user.mouse_grid_showing
+tag: user.use_mouse_grid
 -
 <user.number_key>: user.grid_narrow(number_key)
 grid (off | close | hide): user.grid_close()

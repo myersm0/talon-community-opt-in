@@ -1,5 +1,6 @@
 os: mac
 app: com.microsoft.teams
+tag: user.use_app_teams
 -
 
 open history: key(super-shift-h)

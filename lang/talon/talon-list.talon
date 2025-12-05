@@ -1,4 +1,5 @@
 code.language: talonlist
+tag: user.use_languages
 -
 # requires user.talon_populate_lists tag. do not use with dragon
 list [require] {user.talon_lists}: "list: {talon_lists}"

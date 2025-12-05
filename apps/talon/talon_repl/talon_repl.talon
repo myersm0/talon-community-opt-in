@@ -1,4 +1,5 @@
 app: talon_repl
+tag: user.use_app_talon
 -
 tag(): user.talon_python
 tag(): user.readline

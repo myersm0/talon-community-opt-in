@@ -1,4 +1,5 @@
 app: firefox
+tag: user.use_app_firefox
 -
 tag(): browser
 tag(): user.tabs

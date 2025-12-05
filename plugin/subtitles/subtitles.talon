@@ -1,3 +1,5 @@
+tag: user.use_subtitles
+-
 settings():
     # Show subtitles?
     user.subtitles_show = false

@@ -10,5 +10,6 @@
 # win.title: / - user - Visual Studio Code/
 # win.title: / - community - Visual Studio Code/
 code.language: python
+tag: user.use_languages
 -
 tag(): user.talon_python

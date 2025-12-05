@@ -1,4 +1,5 @@
 os: linux
+tag: user.use_app_dunst
 -
 
 show notifications: key(ctrl-`)

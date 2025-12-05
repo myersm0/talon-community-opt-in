@@ -1,5 +1,6 @@
 code.language: css
 code.language: scss
+tag: user.use_languages
 -
 
 tag(): user.code_comment_block_c_like

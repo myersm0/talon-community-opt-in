@@ -1,4 +1,5 @@
 app: warp
+tag: user.use_app_warp
 -
 tag(): terminal
 tag(): user.generic_unix_shell

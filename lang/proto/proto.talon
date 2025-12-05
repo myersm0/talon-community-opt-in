@@ -1,4 +1,5 @@
 code.language: protobuf
+tag: user.use_languages
 -
 
 # this is pretty bare-bones, further contributions welcome

@@ -1,4 +1,5 @@
 app: thunderbird_inbox
+tag: user.use_app_thunderbird
 -
 # navigate
 (mail | message) open: key(enter)

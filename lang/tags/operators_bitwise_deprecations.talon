@@ -1,4 +1,5 @@
 tag: user.code_operators_bitwise
+tag: user.use_languages
 -
 
 #bitwise operators

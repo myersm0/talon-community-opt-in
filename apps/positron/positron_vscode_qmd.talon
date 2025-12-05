@@ -2,6 +2,7 @@
 app: vscode
 app: positron
 win.file_ext: .qmd
+tag: user.use_app_positron
 -
 
 # Quarto Markdown

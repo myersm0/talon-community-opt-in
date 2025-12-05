@@ -1,4 +1,5 @@
 app: signal
+tag: user.use_app_signal
 -
 show shortcuts: key("ctrl-/")
 

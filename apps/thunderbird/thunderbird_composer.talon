@@ -1,4 +1,5 @@
 app: thunderbird_composer
+tag: user.use_app_thunderbird
 -
 # mail
 (draft | mail | message) save: user.thunderbird_mod("s")

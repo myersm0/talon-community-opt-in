@@ -1,4 +1,5 @@
 tag: user.line_commands
+tag: user.use_line_commands
 -
 #this defines some common line commands. More may be defined that are ide-specific.
 lend:

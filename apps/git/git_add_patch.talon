@@ -1,6 +1,7 @@
 tag: terminal
 and tag: user.git
 title: /git add .*\-p/
+tag: user.use_app_git
 -
 yank:
     key(y)

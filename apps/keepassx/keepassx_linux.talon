@@ -1,4 +1,5 @@
 app: keepass
+tag: user.use_app_keepassx
 -
 # Database
 open database: key(ctrl-o)

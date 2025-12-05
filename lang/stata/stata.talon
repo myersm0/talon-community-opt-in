@@ -1,4 +1,5 @@
 code.language: stata
+tag: user.use_languages
 -
 tag(): user.code_imperative
 

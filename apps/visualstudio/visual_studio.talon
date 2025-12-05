@@ -1,4 +1,5 @@
 app: visual_studio
+tag: user.use_app_visualstudio
 -
 tag(): user.tabs
 tag(): user.line_commands

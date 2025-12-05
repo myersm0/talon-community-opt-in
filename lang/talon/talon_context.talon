@@ -2,6 +2,7 @@ code.language: talon
 code.language: talonlist
 code.language: python
 and tag: user.talon_python
+tag: user.use_languages
 -
 #context requirements
 win require: insert("os: windows\n")

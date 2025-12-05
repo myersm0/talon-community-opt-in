@@ -1,5 +1,6 @@
 # These are available globally (in command mode)
 mode: command
+tag: user.use_draft_window
 -
 ^draft show:
     # Do this toggle so we can have focus when saying 'draft show'

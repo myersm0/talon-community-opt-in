@@ -1,4 +1,5 @@
 tag: user.debugger
+tag: user.use_debugger
 -
 
 # Code execution

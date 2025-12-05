@@ -1,3 +1,5 @@
+tag: user.use_symbols
+-
 empty dub string:
     user.deprecate_command("2024-11-24", "empty dub string", "quad")
     user.insert_between('"', '"')

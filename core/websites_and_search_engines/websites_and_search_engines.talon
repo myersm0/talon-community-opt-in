@@ -1,3 +1,5 @@
+tag: user.use_websites
+-
 open {user.website}: user.open_url(website)
 open that: user.open_url(edit.selected_text())
 open paste: user.open_url(clip.text())

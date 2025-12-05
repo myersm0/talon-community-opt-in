@@ -1,4 +1,5 @@
 tag: user.stylua
+tag: user.use_languages
 -
 
 lint ignore: "-- stylua: ignore"

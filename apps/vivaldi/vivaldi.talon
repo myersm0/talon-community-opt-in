@@ -1,4 +1,5 @@
 app: vivaldi
+tag: user.use_app_vivaldi
 -
 tag(): browser
 tag(): user.tabs

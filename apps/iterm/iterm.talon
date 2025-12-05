@@ -1,5 +1,6 @@
 os: mac
 app: iterm2
+tag: user.use_app_iterm
 -
 tag(): terminal
 # todo: filemanager support

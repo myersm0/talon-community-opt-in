@@ -1,5 +1,6 @@
 tag: browser
 win.title: /ProtonMail/
+tag: user.use_app_protonmail
 -
 # General
 ## Application

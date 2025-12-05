@@ -1,4 +1,5 @@
 user.running: amethyst
+tag: user.use_app_amethyst
 -
 window next: key("alt-shift-j")
 window previous: key("alt-shift-k")

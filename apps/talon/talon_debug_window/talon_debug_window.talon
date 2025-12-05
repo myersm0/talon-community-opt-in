@@ -1,6 +1,7 @@
 # this functionality is only available in the talon beta
 # note: these commands are only useful when the search box is focused
 app: talon_debug_window
+tag: user.use_app_talon
 -
 # uncomment user.talon_populate_lists tag to activate talon-specific lists of actions, scopes, modes etcetera.
 # Do not enable this tag with dragon, as it will be unusable.

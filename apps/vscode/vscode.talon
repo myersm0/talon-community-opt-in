@@ -1,5 +1,6 @@
 #custom vscode commands go here
 app: vscode
+tag: user.use_app_vscode
 -
 tag(): user.find_and_replace
 tag(): user.line_commands

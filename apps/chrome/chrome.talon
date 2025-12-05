@@ -1,4 +1,5 @@
 app: chrome
+tag: user.use_app_chrome
 -
 tag(): browser
 tag(): user.tabs

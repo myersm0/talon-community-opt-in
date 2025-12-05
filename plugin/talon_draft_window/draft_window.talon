@@ -1,3 +1,5 @@
+tag: user.use_draft_window
+-
 # These are active when we have focus on the draft window
 title: Talon Draft
 -

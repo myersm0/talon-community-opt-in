@@ -1,4 +1,5 @@
 app: gnome_terminal
+tag: user.use_app_gnome_terminal
 -
 # Set tags
 tag(): terminal

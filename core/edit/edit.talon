@@ -1,3 +1,5 @@
+tag: user.use_editing
+-
 # Compound of action(select, clear, copy, cut, paste, etc.) and modifier(word,
 # line, etc.) commands for editing text.
 # eg: "select line", "clear all"

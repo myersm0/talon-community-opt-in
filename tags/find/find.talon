@@ -1,4 +1,5 @@
 tag: user.find
+tag: user.use_find
 -
 hunt this: edit.find()
 hunt this (pace | paste):

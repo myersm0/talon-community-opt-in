@@ -2,6 +2,7 @@
 os: windows
 app: stata
 win.title: /^Do-file Editor/
+tag: user.use_app_stata
 -
 do this: key(ctrl-d)
 
