@@ -8,6 +8,7 @@
 # tag(): user.use_text        # "say ____" commands etc are in core/text/text.talon
 # tag(): user.use_dictation
 # tag(): user.use_keys
+# tag(): user.use_file_extensions
 
 ## editing & navigation
 # tag(): user.use_editing
@@ -26,10 +27,11 @@
 # tag(): user.use_mouse_grid
 
 ## windows & tabs
-# tag(): user.use_window_focus
+# tag(): user.use_window_management
 # tag(): user.use_tabs
 # tag(): user.use_splits
 # tag(): user.use_desktops
+# tag(): user.use_screens
 
 ## utilities
 # tag(): user.use_help

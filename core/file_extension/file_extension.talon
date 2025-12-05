@@ -1,3 +1,3 @@
-tag: user.use_text_input
+tag: user.use_file_extensions
 -
 {user.file_extension}: "{file_extension}"

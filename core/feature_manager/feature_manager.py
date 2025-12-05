@@ -84,6 +84,7 @@ features = [
 	"draft_window",
 	"editing",
 	"emoji",
+	"file_extensions",
 	"file_manager",
 	"find",
 	"find_replace",
@@ -106,6 +107,7 @@ features = [
 	"numbers",
 	"pages",
 	"repeater",
+	"screens",
 	"screenshots",
 	"snippets",
 	"splits",
@@ -118,7 +120,7 @@ features = [
 	"text_navigation",
 	"vocabulary",
 	"websites",
-	"window_focus",
+	"window_management",
 ]
 
 for feature in features:

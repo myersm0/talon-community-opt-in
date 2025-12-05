@@ -1,4 +1,4 @@
-tag: user.use_window_focus
+tag: user.use_window_management
 -
 window (new | open): app.window_open()
 window next: app.window_next()
