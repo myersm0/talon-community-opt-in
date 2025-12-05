@@ -1,4 +1,4 @@
-tag: user.use_text_input
+tag: user.use_text
 -
 #provide both anchored and unachored commands via 'over'
 phrase <user.text>$:

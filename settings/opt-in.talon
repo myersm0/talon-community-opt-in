@@ -5,9 +5,8 @@
 ## core input
 # tag(): user.use_alphabet
 # tag(): user.use_numbers
-# tag(): user.use_text_input
+# tag(): user.use_text        # "say ____" commands etc are in core/text/text.talon
 # tag(): user.use_dictation
-# tag(): user.use_formatters
 
 ## editing & navigation
 # tag(): user.use_editing
