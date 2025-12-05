@@ -90,6 +90,7 @@ features = [
 	"formatters",
 	"help",
 	"homophones",
+	"keys",
 	"language_modes",
 	"languages",
 	"line_commands",

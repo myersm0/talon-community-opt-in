@@ -1,4 +1,4 @@
-tag: user.use_alphabet
+tag: user.use_keys
 -
 <user.letter>: key(letter)
 (ship | uppercase) <user.letters> [(lowercase | sunk)]:

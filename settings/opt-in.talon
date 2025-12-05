@@ -7,6 +7,7 @@
 # tag(): user.use_numbers
 # tag(): user.use_text        # "say ____" commands etc are in core/text/text.talon
 # tag(): user.use_dictation
+# tag(): user.use_keys
 
 ## editing & navigation
 # tag(): user.use_editing
