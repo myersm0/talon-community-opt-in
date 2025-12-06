@@ -1,5 +1,5 @@
 tag: user.tabs
-tag: user.use_tabs
+and tag: user.use_tabs
 -
 tab (open | new): app.tab_open()
 tab (last | previous): app.tab_previous()

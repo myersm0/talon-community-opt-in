@@ -1,5 +1,5 @@
 tag: browser
-tag: user.use_browser
+and tag: user.use_browser
 -
 tag(): user.address
 tag(): user.find

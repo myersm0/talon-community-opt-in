@@ -1,5 +1,5 @@
 tag: user.code_comment_line
-tag: user.use_languages
+and tag: user.use_languages
 -
 comment: user.code_comment_line_prefix()
 comment line:

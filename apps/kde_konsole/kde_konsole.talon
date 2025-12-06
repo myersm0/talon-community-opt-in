@@ -1,6 +1,6 @@
+tag: user.use_app_kde_konsole
 os: linux
 and app.name: konsole
-tag: user.use_app_kde_konsole
 -
 # makes the commands in terminal.talon available
 tag(): terminal

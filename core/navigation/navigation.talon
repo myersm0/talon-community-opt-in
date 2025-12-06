@@ -1,5 +1,5 @@
 tag: user.navigation
-tag: user.use_navigation
+and tag: user.use_navigation
 -
 
 go back: user.go_back()

@@ -26,7 +26,7 @@
 # ALSO: if you do populate your window title with your distro name, make sure the 'wsl_title_regex'
 # value in wsl.py is set accordingly.
 tag: user.wsl
-tag: user.use_app_wsl
+and tag: user.use_app_wsl
 -
 
 tag(): terminal

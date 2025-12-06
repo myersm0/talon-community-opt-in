@@ -1,6 +1,6 @@
+tag: user.use_app_termite
 app: termite
 and not win.title: /VIM/
-tag: user.use_app_termite
 -
 #comment or remove tags for command sets you don't want
 #termite doesn't support the file_manager stuff yet

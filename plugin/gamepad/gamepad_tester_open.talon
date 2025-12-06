@@ -1,5 +1,5 @@
 tag: user.use_gamepad
-tag: user.gamepad_tester
+and tag: user.gamepad_tester
 -
 
 # D-pad buttons

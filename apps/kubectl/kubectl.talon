@@ -1,6 +1,6 @@
 tag: terminal
 and tag: user.kubectl
-tag: user.use_app_kubectl
+and tag: user.use_app_kubectl
 -
 cube [control]: "kubectl "
 

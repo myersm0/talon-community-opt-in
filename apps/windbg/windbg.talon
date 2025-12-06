@@ -2,7 +2,7 @@
 # ex: user.windbg_insert_in_cmd()
 #    edit.left()
 tag: user.windbg
-tag: user.use_app_windbg
+and tag: user.use_app_windbg
 -
 tag(): user.debugger
 

@@ -1,5 +1,5 @@
 tag: user.code_object_oriented
-tag: user.use_languages
+and tag: user.use_languages
 -
 
 self dot: user.code_self_accessor()

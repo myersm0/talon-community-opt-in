@@ -1,5 +1,5 @@
 tag: user.chapters
-tag: user.use_chapters
+and tag: user.use_chapters
 -
 chapter next: user.chapter_next()
 chapter last: user.chapter_previous()

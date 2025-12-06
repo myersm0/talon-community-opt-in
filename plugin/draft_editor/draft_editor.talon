@@ -1,6 +1,6 @@
 tag: user.draft_editor_app_running
+and tag: user.use_draft_window
 and not tag: user.draft_editor_app_focused
-tag: user.use_draft_window
 -
 
 draft this: user.draft_editor_open()

@@ -1,5 +1,5 @@
 tag: user.pages
-tag: user.use_pages
+and tag: user.use_pages
 -
 tag(): user.navigation
 

@@ -1,5 +1,5 @@
 tag: user.code_imperative
-tag: user.use_languages
+and tag: user.use_languages
 -
 block: user.code_block()
 state if: user.insert_snippet_by_name("ifStatement")

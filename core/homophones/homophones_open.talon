@@ -1,5 +1,5 @@
 tag: user.homophones_open
-tag: user.use_homophones
+and tag: user.use_homophones
 -
 
 choose <user.formatters> <number_small>:

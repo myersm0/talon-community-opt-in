@@ -3,7 +3,7 @@ os: linux
 #win.title: /gdb/
 tag: terminal
 and tag: user.gdb
-tag: user.use_app_gdb
+and tag: user.use_app_gdb
 -
 tag(): user.debugger
 until <number>: "until {number}"

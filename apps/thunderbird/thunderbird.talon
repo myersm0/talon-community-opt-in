@@ -1,7 +1,7 @@
+tag: user.use_app_thunderbird
 app: thunderbird
 and not app: thunderbird_contacts
 and not app: thunderbird_composer
-tag: user.use_app_thunderbird
 -
 # Set tags
 tag(): user.tabs

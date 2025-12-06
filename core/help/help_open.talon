@@ -1,5 +1,5 @@
 tag: user.help_open
-tag: user.use_help
+and tag: user.use_help
 -
 help next$: user.help_next()
 help (previous | last)$: user.help_previous()

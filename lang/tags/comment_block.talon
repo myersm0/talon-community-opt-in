@@ -1,5 +1,5 @@
 tag: user.code_comment_block
-tag: user.use_languages
+and tag: user.use_languages
 -
 block comment: user.code_comment_block()
 block comment line:

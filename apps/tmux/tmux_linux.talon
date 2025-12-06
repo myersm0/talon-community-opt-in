@@ -1,6 +1,6 @@
 os: linux
 tag: user.tmux
-tag: user.use_app_tmux
+and tag: user.use_app_tmux
 -
 mux: "tmux "
 
