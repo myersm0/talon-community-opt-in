@@ -88,7 +88,7 @@ features = [
 	"file_manager",
 	"find",
 	"find_replace",
-	"formatters",
+	"gamepad",
 	"help",
 	"homophones",
 	"keys",

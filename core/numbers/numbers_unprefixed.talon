@@ -1,4 +1,5 @@
-tag: user.unprefixed_numbers
+tag: user.use_numbers
+and tag: user.unprefixed_numbers
 and not tag: user.continuous_scrolling
 and not tag: user.mouse_grid_showing
 -

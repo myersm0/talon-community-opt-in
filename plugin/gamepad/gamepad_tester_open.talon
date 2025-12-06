@@ -1,3 +1,4 @@
+tag: user.use_gamepad
 tag: user.gamepad_tester
 -
 

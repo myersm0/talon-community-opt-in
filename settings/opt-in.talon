@@ -5,7 +5,7 @@
 ## core input
 # tag(): user.use_alphabet
 # tag(): user.use_numbers
-# tag(): user.use_text        # "say ____" commands etc are in core/text/text.talon
+# tag(): user.use_text             # "say ____" commands etc are in core/text/text.talon
 # tag(): user.use_dictation
 # tag(): user.use_keys
 # tag(): user.use_file_extensions
@@ -22,9 +22,10 @@
 # tag(): user.use_multiple_cursors
 # tag(): user.use_line_commands
 
-## mouse & grid
+## peripherals
 # tag(): user.use_mouse
 # tag(): user.use_mouse_grid
+# tag(): user.use_gamepad
 
 ## windows & tabs
 # tag(): user.use_window_management
