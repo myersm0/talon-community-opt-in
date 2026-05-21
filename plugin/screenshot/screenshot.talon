@@ -1,6 +1,5 @@
 tag: user.use_screenshots
--
-not tag: user.screenshot_disabled
+and not tag: user.screenshot_disabled
 -
 
 ^grab screen$: user.screenshot()
