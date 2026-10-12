@@ -3,6 +3,7 @@ mode: dictation
 mode: sleep
 not speech.engine: dragon
 not tag: user.deep_sleep
+and not tag: user.no_wake_commands
 -
 
 # We define this *only* if the speech engine isn't Dragon, because if you're using Dragon,

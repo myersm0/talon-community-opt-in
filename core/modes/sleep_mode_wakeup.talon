@@ -1,5 +1,6 @@
 mode: sleep
 not tag: user.deep_sleep
+and not tag: user.no_wake_commands
 -
 
 #================================================================================

@@ -126,3 +126,5 @@ features = [
 for feature in features:
 	mod.tag(f"use_{feature}", desc=f"Enable {feature} commands")
 
+
+mod.tag("no_wake_commands", desc="Disable voice commands that wake Talon from sleep")

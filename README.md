@@ -4,7 +4,7 @@ A fork of [talonhub/community](https://github.com/talonhub/community) where **al
 
 ## What This Is
 
-The standard community repo activates all commands by default. This fork flips that: nothing is active until you enable it. Sleep/wake commands are the only exception.
+The standard community repo activates all commands by default. This fork flips that: nothing is active until you enable it. Sleep/wake commands are the only exception. To turn off the wake commands too (e.g. for a push-to-talk setup), assert `tag(): user.no_wake_commands`.
 
 This is an alternative approach, not a replacement to the official community repo. It has its own tradeoffs (see below).
 
